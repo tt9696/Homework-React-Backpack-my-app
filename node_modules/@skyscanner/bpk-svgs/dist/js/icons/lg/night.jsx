@@ -1,0 +1,5 @@
+import React from 'react';
+const NightIcon = (props) => (<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" width="1.5rem" height="1.5rem" {...props}>
+    <path d="M15.169 14.86a7.49 7.49 0 0 1-6.027-6.03A7.62 7.62 0 0 1 10.95 2.4c.1-.2 0-.402-.201-.402A10.044 10.044 0 1 0 22 13.251c0-.2-.2-.402-.402-.2a7.85 7.85 0 0 1-6.43 1.808z"/>
+  </svg>);
+export default NightIcon;

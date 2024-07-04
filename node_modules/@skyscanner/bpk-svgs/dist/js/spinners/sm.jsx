@@ -1,0 +1,16 @@
+import React from 'react';
+const SmIcon = (props) => (<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" aria-hidden="true" width="1rem" height="1rem" {...props}>
+    <path d="M3 7H1a1 1 0 0 0 0 2h2a1 1 0 0 0 0-2" opacity={0.45}/>
+    <path d="M15 7h-2a1 1 0 1 0 0 2h2a1 1 0 1 0 0-2"/>
+    <path d="M7 13v2a1 1 0 1 0 2 0v-2a1 1 0 1 0-2 0" opacity={0.3}/>
+    <path d="M7 1v2a1 1 0 0 0 2 0V1a1 1 0 0 0-2 0" opacity={0.65}/>
+    <path d="m9.634 12.83 1 1.732a1 1 0 1 0 1.732-1l-1-1.732a1 1 0 0 0-1.732 1" opacity={0.25}/>
+    <path d="m3.634 2.438 1 1.732a1 1 0 1 0 1.732-1l-1-1.732a1 1 0 1 0-1.732 1" opacity={0.55}/>
+    <path d="m11.83 11.366 1.732 1a1 1 0 1 0 1-1.732l-1.732-1a1 1 0 1 0-1 1.732" opacity={0.2}/>
+    <path d="m1.438 5.366 1.732 1a1 1 0 1 0 1-1.732l-1.732-1a1 1 0 1 0-1 1.732" opacity={0.5}/>
+    <path d="m12.83 6.366 1.732-1a1 1 0 0 0-1-1.732l-1.732 1a1 1 0 0 0 1 1.732" opacity={0.85}/>
+    <path d="m2.438 12.366 1.732-1a1 1 0 1 0-1-1.732l-1.732 1a1 1 0 1 0 1 1.732" opacity={0.4}/>
+    <path d="m11.366 4.17 1-1.732a1 1 0 0 0-1.732-1l-1 1.732a1 1 0 0 0 1.732 1" opacity={0.75}/>
+    <path d="m5.366 14.562 1-1.732a1 1 0 1 0-1.732-1l-1 1.732a1 1 0 0 0 1.732 1" opacity={0.35}/>
+  </svg>);
+export default SmIcon;
