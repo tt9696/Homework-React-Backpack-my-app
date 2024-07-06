@@ -9,6 +9,7 @@ npx create-react-app my-app
 cd my-app  
 npm start  
 
+# Interface-only  
 **required: { node: '^18.16.0', npm: '>=9.5.1' }  
 "dependencies": {
     "@skyscanner/backpack-web": "34.4.0",
